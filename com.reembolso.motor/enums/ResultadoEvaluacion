@@ -1,0 +1,4 @@
+public enum ResultadoEvaluacion {
+    APROBABLE,
+    RECHAZABLE
+}
